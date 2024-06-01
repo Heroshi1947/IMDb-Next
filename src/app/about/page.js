@@ -64,7 +64,7 @@ import React from "react";
 const About = () => {
   return (
     <>
-      <Navbar /> {/* Add Navbar here if needed */}
+      {/* <Navbar /> Add Navbar here if needed */}
       <div className="max-w-6xl mx-auto space-y-4 p-4">
         <h1 className="text-2xl font-medium text-amber-600">About Us</h1>
         <p>
